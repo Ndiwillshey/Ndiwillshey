@@ -1,5 +1,5 @@
 <div align="center">
-<img width="75%" height = "250px" [https://allcode.com/wp-content/uploads/2021/02/Group-169-3.png](https://allcode.com/wp-content/uploads/2021/02/Group-169-3.png)
+<img width="75%" height = "250px" https://allcode.com/wp-content/uploads/2021/02/Group-169-3.png 
 </div>
 
 <h1> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
